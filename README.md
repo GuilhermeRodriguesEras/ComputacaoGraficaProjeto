@@ -1,6 +1,6 @@
 # ComputacaoGraficaProjeto
 
-Criação de um braço robótico 3D com o usando openGL juntamente com a glut
+Criação de um braço robótico 3D usando openGL juntamente com a glut
 
 para compilar usar comando:
 
